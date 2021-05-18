@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# elite-dynasty-tradebook
+
+Fantasy Football Social Media Website
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
